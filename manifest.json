@@ -1,0 +1,15 @@
+{
+  "name": "AM2S Board A Sim",
+  "short_name": "AM2S Sim",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b0f14",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsSAAALEgHS3X78AAAAr0lEQVR4nO3aMQ6CMBBF0SYQGxgY2GgM2b8kJk1gQ2k1h6wQmDkGv8b0qkq3b9mFf0pQAAAAAAAAAAAAAAAPC2h7r1h7u8d4w6b3bZk0x0y2p8m7p2tB2t8q3m1yW0h7h2r3y8rjz2J0c0m3c1lP3uXyq3w1c1b0nGm1x2zV8k8b0m0mKcJw7z2g0uYlQAAAAAAAAAAAAAAAHwHkCwEoQ6m2JAAAAAElFTkSuQmCC",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
