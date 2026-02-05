@@ -1,0 +1,13 @@
+{
+  "name": "Board A (Prototype)",
+  "snapRadius": 42,
+  "terminals": [
+    { "id": "SUP_L", "label": "SUP L", "kind": "supplyL", "x": 230, "y": 560 },
+    { "id": "SUP_N", "label": "SUP N", "kind": "supplyN", "x": 330, "y": 560 },
+    { "id": "SUP_E", "label": "SUP E", "kind": "supplyE", "x": 430, "y": 560 },
+
+    { "id": "MET", "label": "MET", "kind": "met", "x": 850, "y": 560 },
+    { "id": "E_BAR_1", "label": "E1", "kind": "earthBar", "x": 850, "y": 500 },
+    { "id": "N_BAR_1", "label": "N1", "kind": "neutralBar", "x": 850, "y": 440 }
+  ]
+}
